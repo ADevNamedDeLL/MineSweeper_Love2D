@@ -40,7 +40,7 @@ Next, go to the official Love2D website and download the 64-bit version:
 
 ### 9. Add Required DLLs
 - Create a new folder for your game files.
-- Copy the `game_name.exe` and the following **DLL** files into this folder:
+- Copy the `game_name.exe` and the following **DLL** files into the folder of your game:
 
     - `love.dll`
     - `lua51.dll`
