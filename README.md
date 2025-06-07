@@ -1,5 +1,7 @@
 # How to Package Your Game with Love2D
 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 Follow these steps to create a standalone executable for your Love2D game:
 
 ### 1. Install 7-Zip
